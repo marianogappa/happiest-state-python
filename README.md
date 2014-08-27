@@ -4,6 +4,7 @@ happiest-state-python
 Determining the happiest USA state using Twitter streams and Sentiment Analysis in Python.
 
 **To test**
+
 ```$ python happiest_state.py AFINN-111.txt output.txt```
 
 - Coded for the Data Science Coursera class (University of Washington)
